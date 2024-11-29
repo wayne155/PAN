@@ -25,6 +25,11 @@ PEMS04, PEMS07, PEMS08 datasets are downloaded from [https://github.com/Davidham
 pip install -r ./requirements.txt
 ```
 
+below is the main repo we used:
+```
+pip install torch-timeseries==0.1.5
+```
+
 
 ## 3.2 set up environment variable
 
